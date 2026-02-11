@@ -50,8 +50,9 @@ header p {
 }
 
 .quadrato {
-    width: 600px;
-    height: 490px;
+    aspect-ratio: 1/1;
+    width: 60%;
+    height: 49%;
     overflow: hidden;
 }
 
@@ -128,5 +129,6 @@ footer h2 {
         gap: 10px:
      }
 }
+
 
 
