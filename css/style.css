@@ -17,7 +17,8 @@ header {
 
 .titolo {
     background-color: #FBD747;
-    width: 89%;
+    max-width:890px;
+    width: 90%;
     margin-top: 64px;
     height: 22%;
 }
@@ -129,6 +130,7 @@ footer h2 {
         gap: 10px:
      }
 }
+
 
 
 
